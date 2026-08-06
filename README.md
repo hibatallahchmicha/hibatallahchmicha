@@ -16,6 +16,28 @@ production pipelines, streaming systems, and AI-powered analytics.
 
 ---
 
+## 📊 Live Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hibatallahchmicha&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibatallahchmicha&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hibatallahchmicha&hide_border=true&theme=default" alt="Streak stats" />
+  <img src="https://komarev.com/ghpvc/?username=hibatallahchmicha&color=1f4e79&style=flat&label=profile+views" alt="Profile views" />
+</p>
+
+## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/hibatallahchmicha/hibatallahchmicha/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation (dark)" />
+  <img src="https://raw.githubusercontent.com/hibatallahchmicha/hibatallahchmicha/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation (light)" />
+</p>
+
+## 📈 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Stack | What it does |

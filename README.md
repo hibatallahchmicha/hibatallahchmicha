@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Hibat%20Allah%20Chmicha&fontSize=42&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Data%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=1F4E79&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+INSEA;Building+my+own+data+pipelines;Turning+notebooks+into+shipped+systems;Seeking+a+PFE+internship+%7C+Feb+2027" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=1F4E79&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+INSEA;Building+my+own+data+pipelines;Turning+notebooks+into+shipped+systems;" alt="typing animation" />
 
 </div>
 

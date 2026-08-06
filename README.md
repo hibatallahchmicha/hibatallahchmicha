@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Hibat%20Allah%20Chmicha&fontSize=42&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Data%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2500&pause=800&color=1F4E79&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+INSEA;Building+my+own+data+pipelines;Turning+notebooks+into+shipped+systems;Seeking+a+PFE+internship+%7C+Feb+2027" alt="typing animation" />
+
 </div>
 
 ## 🧠 About Me
@@ -28,6 +30,8 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 </div>
 
 <br/>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -83,6 +87,8 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 <br/>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,9 +100,11 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 ![Profile views](https://komarev.com/ghpvc/?username=hibatallahchmicha&color=1f4e79&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub><i>The GitHub Stats / Top Languages cards above depend on a free shared renderer that has been down (503) for most of today — if they're still broken after a day or two, tell me and I'll switch to a self-hosted version instead of waiting on it.</i></sub>
+<sub><i>The GitHub Stats / Top Languages cards above depend on a free shared renderer that has been down (503) for most of today, if they're still broken after a day or two, tell me and I'll switch to a self-hosted version instead of waiting on it.</i></sub>
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -107,11 +115,15 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 </div>
 
+---
+
 ## 📈 Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 <br/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -130,7 +142,7 @@ Does news move markets? LLM pipeline + Granger causality on AAPL, MSFT, TSLA
 <td width="50%" valign="top">
 
 ### [Retail&nbsp;Demand&nbsp;Forecasting](https://github.com/hibatallahchmicha/Retail_demand_Forecasting)
-Production-grade probabilistic forecasting with uncertainty quantification — M5 dataset, 6 models
+Production-grade probabilistic forecasting with uncertainty quantification, M5 dataset, 6 models
 <br/>
 ![](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![](https://img.shields.io/badge/LightGBM-black?style=flat-square)
@@ -176,22 +188,26 @@ Bronze → Silver → Gold ETL pipeline with analytical dashboards, Medallion ar
 
 <br/>
 
+---
+
 ## 💼 Experience
 
-**Data Engineering Intern — Airports of Morocco**, Rabat · *Jul – Aug 2026*
+**Data Engineering Intern, Airports of Morocco**, Rabat · *Jul – Aug 2026*
 Built an Airflow-orchestrated ETL pipeline loading 5.3M flight records into a validated PostgreSQL star-schema warehouse with automated data-quality gates. Lifted an XGBoost delay-prediction model's F1 from 0.33 to 0.51 through bias/variance diagnosis and causal feature engineering, then shipped a FastAPI service (hexagonal architecture) with a React front end and a LangChain/Ollama assistant exposing guard-railed Text-to-SQL tools.
 
-**Data Engineering Intern — Maamora.ma**, Rabat · *Jul – Aug 2026*
-Designed a 6-stage idempotent ETL pipeline turning raw scraped web data into a clean, branch-level ranking dataset. Engineered a dual-backend enrichment layer — Google Places API with a Playwright fallback — with validation guards, and set up CI/CD (pytest, ruff, GitHub Actions) for reproducible pipeline runs.
+**Data Engineering Intern, Maamora.ma**, Rabat · *Jul – Aug 2026*
+Designed a 6-stage idempotent ETL pipeline turning raw scraped web data into a clean, branch-level ranking dataset. Engineered a dual-backend enrichment layer (Google Places API with a Playwright fallback) with validation guards, and set up CI/CD (pytest, ruff, GitHub Actions) for reproducible pipeline runs.
 
-**Data Science & Analysis Intern — Trésorerie Générale du Royaume (TGR)**, Rabat · *Jul – Aug 2025*
+**Data Science & Analysis Intern, Trésorerie Générale du Royaume (TGR)**, Rabat · *Jul – Aug 2025*
 Cleaned, reconciled, and modelled large-scale government accounting datasets for downstream financial analysis. Ran exploratory analysis surfacing spending and cash-flow trends for team reporting, and automated recurring reporting workflows in Excel.
 
 <br/>
 
+---
+
 ## 🎓 Education
 
-**Engineer's Degree in Data Science & Data Engineering** — INSEA, Rabat · *2024 – 2027 (expected)*
+**Engineer's Degree in Data Science & Data Engineering**, INSEA, Rabat · *2024 – 2027 (expected)*
 Cycle Ingénieur. Focus: Big Data & Distributed Systems · Data Warehousing & DBA · Statistical Learning · Optimization
 
 **CPGE (Physique et Sciences de l'Ingénieur)** · *2022 – 2024*
@@ -199,13 +215,21 @@ Applied mathematics, physics, and engineering fundamentals
 
 <br/>
 
+---
+
 ## 📜 Certifications
 
-🏅 Oracle Cloud Infrastructure 2025 Architect Associate - Oracle
-🏅 Apache Kafka Fundamentals - Confluent
-🏅 Databricks Fundamentals - Databricks
-🏅 AWS Machine Learning Foundations - AWS
-🏅 Advanced SQL for Data Engineering - 365 Data Science
+<div align="center">
+
+[![OCI](https://img.shields.io/badge/OCI%202025%20Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/)
+[![Kafka](https://img.shields.io/badge/Kafka%20Fundamentals-1A1A1A?style=for-the-badge&logo=confluent&logoColor=white)](https://www.confluent.io/)
+[![Databricks](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+[![AWS](https://img.shields.io/badge/AWS%20ML%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/)
+[![SQL](https://img.shields.io/badge/Advanced%20SQL%20for%20Data%20Engineering-025E8C?style=for-the-badge)](https://365datascience.com/)
+
+<sub>Oracle Cloud Infrastructure 2025 Architect Associate (Oracle) · Apache Kafka Fundamentals (Confluent) · Databricks Fundamentals (Databricks) · AWS Machine Learning Foundations (AWS) · Advanced SQL for Data Engineering (365 Data Science)</sub>
+
+</div>
 
 <br/>
 

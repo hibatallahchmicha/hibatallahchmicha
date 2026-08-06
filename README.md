@@ -1,30 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Hibat%20Allah%20Chmicha&fontSize=42&fontColor=ffffff&desc=Data%20Engineering%20%7C%20Machine%20Learning%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Hibat%20Allah%20Chmicha&fontSize=42&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Data%20Engineering&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-Final-year Data Science &amp; Engineering student @ **INSEA** · Building production data pipelines, streaming systems, and ML platforms
-Seeking a **PFE internship (Feb 2027)** in Data Engineering / AI Infrastructure
+</div>
+
+## 🧠 About Me
+
+I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my focus is data science — but I build my own infrastructure to get there. Instead of stopping at a notebook, I take a model the rest of the way: the pipeline that feeds it, the API that serves it, the dashboard that makes it useful. Three data engineering internships before graduation taught me how systems hold up against real, messy operational data, and that's the bar I hold my own projects to.
+
+- 🔬 Focused on **data science** — forecasting, NLP, deep learning — built on pipelines I engineer myself
+- 🏗️ 3 data engineering internships shipping real ETL, streaming, and ML systems
+- ☁️ Currently deploying [LogiFlow](https://github.com/hibatallahchmicha/Global-Logistics-Data-Platform) to AWS with Terraform
+- 🎓 OCI 2025 Architect Associate · Confluent Kafka Fundamentals · Databricks Fundamentals
+- 🎯 Seeking a **PFE internship (Feb 2027)** in Data Science / Data Engineering
+- 🤝 Open to opportunities, collaborations, and knowledge exchange
+
+> *A model that only lives in a notebook hasn't shipped yet — it's still a hypothesis.*
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hibat-allah-chmicha-7b2314324)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chmichahibatallah@gmail.com)
 [![Live API](https://img.shields.io/badge/Live%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://finsentiment-lab.onrender.com/docs)
 
+📍 Rabat, Morocco
+
 </div>
 
 <br/>
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Data Engineering**
+**Data Analysis & Python Ecosystem**
+<br/>
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Data Engineering & Architecture**
 <br/>
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -35,7 +58,6 @@ Seeking a **PFE internship (Feb 2027)** in Data Engineering / AI Infrastructure
 
 **ML & AI**
 <br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 <br/>
@@ -44,6 +66,7 @@ Seeking a **PFE internship (Feb 2027)** in Data Engineering / AI Infrastructure
 **Cloud & DevOps**
 <br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -74,7 +97,7 @@ Seeking a **PFE internship (Feb 2027)** in Data Engineering / AI Infrastructure
 
 ![Profile views](https://komarev.com/ghpvc/?username=hibatallahchmicha&color=1f4e79&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub><i>Stats cards pull from a free shared renderer that occasionally rate-limits (503) — they self-heal, no action needed. If a card ever shows broken for more than a day, see the self-host fallback note in this repo.</i></sub>
+<sub><i>Stats cards pull from a free shared renderer that occasionally rate-limits (503) — they self-heal, no action needed.</i></sub>
 
 </div>
 
@@ -156,7 +179,42 @@ Bronze → Silver → Gold ETL pipeline with analytical dashboards, Medallion ar
 
 <br/>
 
+## 💼 Experience
+
+**Data Engineering Intern — Airports of Morocco**, Rabat · *Jul – Aug 2026*
+Built an Airflow-orchestrated ETL pipeline loading 5.3M flight records into a validated PostgreSQL star-schema warehouse with automated data-quality gates. Lifted an XGBoost delay-prediction model's F1 from 0.33 to 0.51 through bias/variance diagnosis and causal feature engineering, then shipped a FastAPI service (hexagonal architecture) with a React front end and a LangChain/Ollama assistant exposing guard-railed Text-to-SQL tools.
+
+**Data Engineering Intern — Maamora.ma**, Rabat · *Jul – Aug 2026*
+Designed a 6-stage idempotent ETL pipeline turning raw scraped web data into a clean, branch-level ranking dataset. Engineered a dual-backend enrichment layer — Google Places API with a Playwright fallback — with validation guards, and set up CI/CD (pytest, ruff, GitHub Actions) for reproducible pipeline runs.
+
+**Data Science & Analysis Intern — Trésorerie Générale du Royaume (TGR)**, Rabat · *Jul – Aug 2025*
+Cleaned, reconciled, and modelled large-scale government accounting datasets for downstream financial analysis. Ran exploratory analysis surfacing spending and cash-flow trends for team reporting, and automated recurring reporting workflows in Excel.
+
+<br/>
+
+## 🎓 Education
+
+**Engineer's Degree in Data Science & Data Engineering** — INSEA, Rabat · *2024 – 2027 (expected)*
+Cycle Ingénieur. Focus: Big Data & Distributed Systems · Data Warehousing & DBA · Statistical Learning · Optimization
+
+**CPGE (Physique et Sciences de l'Ingénieur)** · *2022 – 2024*
+Applied mathematics, physics, and engineering fundamentals
+
+<br/>
+
+## 📜 Certifications
+
+🏅 Oracle Cloud Infrastructure 2025 Architect Associate — Oracle
+🏅 Apache Kafka Fundamentals — Confluent
+🏅 Databricks Fundamentals — Databricks
+🏅 AWS Machine Learning Foundations — AWS
+🏅 Advanced SQL for Data Engineering — 365 Data Science
+
+<br/>
+
 <div align="center">
+
+Thanks for stopping by — the repos are open, the data's real, and I'm always up for talking pipelines.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer" width="100%"/>
 

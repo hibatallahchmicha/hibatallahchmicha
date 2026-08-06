@@ -14,7 +14,6 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 - 🏗️ 3 data engineering internships shipping real ETL, streaming, and ML systems
 - ☁️ Currently deploying [LogiFlow](https://github.com/hibatallahchmicha/Global-Logistics-Data-Platform) to AWS with Terraform
 - 🎓 OCI 2025 Architect Associate · Confluent Kafka Fundamentals · Databricks Fundamentals
-- 🎯 Seeking a **PFE internship (Feb 2027)** in Data Science / Data Engineering
 - 🤝 Open to opportunities, collaborations, and knowledge exchange
 
 > *A model that only lives in a notebook hasn't shipped yet , it's still a hypothesis.*

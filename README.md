@@ -6,16 +6,16 @@
 
 ## 🧠 About Me
 
-I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my focus is data science — but I build my own infrastructure to get there. Instead of stopping at a notebook, I take a model the rest of the way: the pipeline that feeds it, the API that serves it, the dashboard that makes it useful. Three data engineering internships before graduation taught me how systems hold up against real, messy operational data, and that's the bar I hold my own projects to.
+I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my focus is data science , but I build my own infrastructure to get there. Instead of stopping at a notebook, I take a model the rest of the way: the pipeline that feeds it, the API that serves it, the dashboard that makes it useful. Three data engineering internships before graduation taught me how systems hold up against real, messy operational data, and that's the bar I hold my own projects to.
 
-- 🔬 Focused on **data science** — forecasting, NLP, deep learning — built on pipelines I engineer myself
+- 🔬 Focused on **data science** , forecasting, NLP, deep learning , built on pipelines I engineer myself
 - 🏗️ 3 data engineering internships shipping real ETL, streaming, and ML systems
 - ☁️ Currently deploying [LogiFlow](https://github.com/hibatallahchmicha/Global-Logistics-Data-Platform) to AWS with Terraform
 - 🎓 OCI 2025 Architect Associate · Confluent Kafka Fundamentals · Databricks Fundamentals
 - 🎯 Seeking a **PFE internship (Feb 2027)** in Data Science / Data Engineering
 - 🤝 Open to opportunities, collaborations, and knowledge exchange
 
-> *A model that only lives in a notebook hasn't shipped yet — it's still a hypothesis.*
+> *A model that only lives in a notebook hasn't shipped yet , it's still a hypothesis.*
 
 <div align="center">
 
@@ -201,17 +201,17 @@ Applied mathematics, physics, and engineering fundamentals
 
 ## 📜 Certifications
 
-🏅 Oracle Cloud Infrastructure 2025 Architect Associate — Oracle
-🏅 Apache Kafka Fundamentals — Confluent
-🏅 Databricks Fundamentals — Databricks
-🏅 AWS Machine Learning Foundations — AWS
-🏅 Advanced SQL for Data Engineering — 365 Data Science
+🏅 Oracle Cloud Infrastructure 2025 Architect Associate - Oracle
+🏅 Apache Kafka Fundamentals - Confluent
+🏅 Databricks Fundamentals - Databricks
+🏅 AWS Machine Learning Foundations - AWS
+🏅 Advanced SQL for Data Engineering - 365 Data Science
 
 <br/>
 
 <div align="center">
 
-Thanks for stopping by — the repos are open, the data's real, and I'm always up for talking pipelines.
+Thanks for stopping by - the repos are open, the data's real, and I'm always up for talking pipelines.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer" width="100%"/>
 

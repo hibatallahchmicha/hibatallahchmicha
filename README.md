@@ -87,17 +87,14 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hibatallahchmicha&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibatallahchmicha&layout=compact&hide_border=true&theme=default#gh-light-mode-only" alt="Top languages" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hibatallahchmicha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibatallahchmicha&layout=compact&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hibatallahchmicha&show_icons=true&hide_border=true&count_private=true&bg_color=1F4E79&title_color=FFFFFF&text_color=E8EEF5&icon_color=FFFFFF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibatallahchmicha&layout=compact&hide_border=true&bg_color=1F4E79&title_color=FFFFFF&text_color=E8EEF5" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hibatallahchmicha&hide_border=true&theme=default#gh-light-mode-only" alt="Streak stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hibatallahchmicha&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hibatallahchmicha&hide_border=true&background=1F4E79&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=E8EEF5&dates=E8EEF5&border=1F4E79" alt="Streak stats" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=hibatallahchmicha&color=1f4e79&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub><i>Stats cards pull from a free shared renderer that occasionally rate-limits (503) — they self-heal, no action needed.</i></sub>
+<sub><i>The GitHub Stats / Top Languages cards above depend on a free shared renderer that has been down (503) for most of today — if they're still broken after a day or two, tell me and I'll switch to a self-hosted version instead of waiting on it.</i></sub>
 
 </div>
 

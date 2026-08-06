@@ -204,17 +204,17 @@ Applied mathematics, physics, and engineering fundamentals
 
 ## 📜 Certifications
 
-🏅 Oracle Cloud Infrastructure 2025 Architect Associate — Oracle
-🏅 Apache Kafka Fundamentals — Confluent
-🏅 Databricks Fundamentals — Databricks
-🏅 AWS Machine Learning Foundations — AWS
-🏅 Advanced SQL for Data Engineering — 365 Data Science
+🏅 Oracle Cloud Infrastructure 2025 Architect Associate - Oracle
+🏅 Apache Kafka Fundamentals - Confluent
+🏅 Databricks Fundamentals - Databricks
+🏅 AWS Machine Learning Foundations - AWS
+🏅 Advanced SQL for Data Engineering - 365 Data Science
 
 <br/>
 
 <div align="center">
 
-Thanks for stopping by — the repos are open, the data's real, and I'm always up for talking pipelines.
+Thanks for stopping by - the repos are open, the data's real, and I'm always up for talking pipelines.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer" width="100%"/>
 

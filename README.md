@@ -6,9 +6,9 @@
 
 ## 🧠 About Me
 
-I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my focus is data science — but I build my own infrastructure to get there. Instead of stopping at a notebook, I take a model the rest of the way: the pipeline that feeds it, the API that serves it, the dashboard that makes it useful. Three data engineering internships before graduation taught me how systems hold up against real, messy operational data, and that's the bar I hold my own projects to.
+I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my focus is data science , but I build my own infrastructure to get there. Instead of stopping at a notebook, I take a model the rest of the way: the pipeline that feeds it, the API that serves it, the dashboard that makes it useful. Three data engineering internships before graduation taught me how systems hold up against real, messy operational data, and that's the bar I hold my own projects to.
 
-- 🔬 Focused on **data science** — forecasting, NLP, deep learning — built on pipelines I engineer myself
+- 🔬 Focused on **data science** , forecasting, NLP, deep learning , built on pipelines I engineer myself
 - 🏗️ 3 data engineering internships shipping real ETL, streaming, and ML systems
 - ☁️ Currently deploying [LogiFlow](https://github.com/hibatallahchmicha/Global-Logistics-Data-Platform) to AWS with Terraform
 - 🎓 OCI 2025 Architect Associate · Confluent Kafka Fundamentals · Databricks Fundamentals

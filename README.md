@@ -98,7 +98,6 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 ![Profile views](https://komarev.com/ghpvc/?username=hibatallahchmicha&color=1f4e79&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub><i>The GitHub Stats / Top Languages cards above depend on a free shared renderer that has been down (503) for most of today, if they're still broken after a day or two, tell me and I'll switch to a self-hosted version instead of waiting on it.</i></sub>
 
 </div>
 

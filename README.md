@@ -114,9 +114,6 @@ I'm a final-year Data Science &amp; Engineering student at **INSEA**, and my foc
 
 ---
 
-## 📈 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br/>
 
